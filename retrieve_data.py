@@ -1,7 +1,7 @@
 import requests
 import os
 
-# A simple script for downloading the data from the Marshall Project's public repo
+# A simple script for downloading the data from the Marshall Project's public repository
 
 def retrieve(filename):
     # make request
