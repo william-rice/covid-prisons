@@ -9,7 +9,7 @@ def retrieve(filename):
     resp = requests.get(template_url.format(filename))
 
     # save file
-    with open('folder' + os.sep + filename, 'wb') as f:
+    with open(filename, 'wb') as f:
         f.write(resp.content)
 
 def main():
