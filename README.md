@@ -1,5 +1,4 @@
 # covid-prisons
-Visualizing the spread of coronavirus in US prisons
 
 Since the original article did not include any map visualization, I've created a map with the timeseries data to show how coronavirus case numbers have changed over time in different states' prisons. 
 
