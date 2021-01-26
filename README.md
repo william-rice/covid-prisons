@@ -2,9 +2,9 @@
 
 Since the original article did not include any map visualization, I've created a map with the timeseries data to show how coronavirus case numbers have changed over time in different states' prisons. 
 
-See the map by itself [here](https://william-rice.github.io/covid-prisons/).
+See the visualizations by themselves [here](https://william-rice.github.io/covid-prisons/).
 
-And how to build the map in this [notebook](http://nbviewer.jupyter.org/github/william-rice/covid-prisons/blob/main/map_viz.ipynb).
+And how to build the infection rates map in this [notebook](http://nbviewer.jupyter.org/github/william-rice/covid-prisons/blob/main/map_viz.ipynb).
 
 Data from the Marshall Project. 
 
