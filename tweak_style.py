@@ -125,7 +125,7 @@ def adjust(htmldoc):
     """.format(font_family)
 
     background = """
-    #map_88dc0f05dae54f55a8927d640ca3bbc7 {
+    .folium-map {
     background-color: black;
     }
     """
@@ -145,4 +145,4 @@ def adjust(htmldoc):
         f.write(str(doc))
 
 adjust("rates.html")
-#adjust("cases.html")
+adjust("counts.html")
