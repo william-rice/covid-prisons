@@ -3,13 +3,19 @@
 
 from bs4 import BeautifulSoup
 
+# Get the font-family of the parent webpage for the theme
+css = open("style.css", "r")
+rules = css.read()
+ff_loc = rules.split("font-family: ")
+ff = ff_loc[1].split(";")[0]
+
 def adjust(htmldoc):
     # Reads in either the "rates.html" document or the "counts.html" and throws
     # some <style> tags into the header which change the map's final appearance.
     # Output is saved to "styled_rates.html" or "styled_counts.html".
 
     doc = BeautifulSoup(open(htmldoc), features="html.parser")
-    font_family = "Verdana"
+    font_family = ff
 
     slider = """
     input[type=range] {
