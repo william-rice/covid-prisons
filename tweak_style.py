@@ -101,7 +101,7 @@ def adjust(htmldoc):
         font-weight: 900;
         color: white;
         }}
-    """.format()
+    """.format(font_family)
 
     body = """
     body {
@@ -116,7 +116,7 @@ def adjust(htmldoc):
     background-color: rgba(255,255,255,0.5);
     border-radius: 5px;
     }}
-    """.format()
+    """.format(font_family)
 
     background = """
     #map_88dc0f05dae54f55a8927d640ca3bbc7 {
@@ -124,9 +124,15 @@ def adjust(htmldoc):
     }
     """
 
+    tooltips = """
+    .foliumtooltip {{
+    font-family: {};
+    }}
+    """.format(font_family)
+
     style_tag = doc.new_tag("style")
     doc.head.append(style_tag)
-    style_tag.string = slider + slider_value + body + legend + background
+    style_tag.string = slider + slider_value + body + legend + background + tooltips
 
     filename = "styled_{}".format(htmldoc)
     with open(filename, 'w') as f:
