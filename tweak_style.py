@@ -144,5 +144,9 @@ def adjust(htmldoc):
     with open(filename, 'w') as f:
         f.write(str(doc))
 
-adjust("rates.html")
-adjust("counts.html")
+def main():
+    adjust("rates.html")
+    adjust("counts.html")
+
+if __name__ == '__main__':
+    main()
