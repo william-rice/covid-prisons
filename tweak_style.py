@@ -2,6 +2,7 @@
 # map_viz.ipynb before they go on display in the index.html iframes.
 
 from bs4 import BeautifulSoup
+import re
 
 # Get the font-family of the parent webpage for the theme
 css = open("style.css", "r")
@@ -136,10 +137,19 @@ def adjust(htmldoc):
     }}
     """.format(font_family)
 
+
+    # New <style> tag in header
     style_tag = doc.new_tag("style")
     doc.head.append(style_tag)
     style_tag.string = slider + slider_value + body + legend + background + tooltips
 
+    # Change initial slider value (this part is not robust to changes in rates.html)
+    last_script_tag_on_page = doc.find_all("script")[-1]
+    js = last_script_tag_on_page.string
+    modified_script = re.sub('"value", 0', '"value", 25', js)
+    js.replace_with(modified_script)
+
+    # Save output
     filename = "styled_{}".format(htmldoc)
     with open(filename, 'w') as f:
         f.write(str(doc))
