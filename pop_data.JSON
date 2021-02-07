@@ -1,0 +1,4377 @@
+[
+    [
+        "NAME",
+        "POP",
+        "DATE_CODE",
+        "DATE_DESC",
+        "state"
+    ],
+    [
+        "Mississippi",
+        "2967297",
+        "1",
+        "4/1/2010 Census population",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2968130",
+        "2",
+        "4/1/2010 population estimates base",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2970548",
+        "3",
+        "7/1/2010 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2978731",
+        "4",
+        "7/1/2011 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2983816",
+        "5",
+        "7/1/2012 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2988711",
+        "6",
+        "7/1/2013 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2990468",
+        "7",
+        "7/1/2014 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2988471",
+        "8",
+        "7/1/2015 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2987938",
+        "9",
+        "7/1/2016 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2988510",
+        "10",
+        "7/1/2017 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2981020",
+        "11",
+        "7/1/2018 population estimate",
+        "28"
+    ],
+    [
+        "Mississippi",
+        "2976149",
+        "12",
+        "7/1/2019 population estimate",
+        "28"
+    ],
+    [
+        "Missouri",
+        "5988927",
+        "1",
+        "4/1/2010 Census population",
+        "29"
+    ],
+    [
+        "Missouri",
+        "5988950",
+        "2",
+        "4/1/2010 population estimates base",
+        "29"
+    ],
+    [
+        "Missouri",
+        "5995974",
+        "3",
+        "7/1/2010 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6010275",
+        "4",
+        "7/1/2011 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6024367",
+        "5",
+        "7/1/2012 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6040715",
+        "6",
+        "7/1/2013 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6056202",
+        "7",
+        "7/1/2014 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6071732",
+        "8",
+        "7/1/2015 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6087135",
+        "9",
+        "7/1/2016 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6106670",
+        "10",
+        "7/1/2017 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6121623",
+        "11",
+        "7/1/2018 population estimate",
+        "29"
+    ],
+    [
+        "Missouri",
+        "6137428",
+        "12",
+        "7/1/2019 population estimate",
+        "29"
+    ],
+    [
+        "Montana",
+        "989415",
+        "1",
+        "4/1/2010 Census population",
+        "30"
+    ],
+    [
+        "Montana",
+        "989407",
+        "2",
+        "4/1/2010 population estimates base",
+        "30"
+    ],
+    [
+        "Montana",
+        "990697",
+        "3",
+        "7/1/2010 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "997316",
+        "4",
+        "7/1/2011 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1003783",
+        "5",
+        "7/1/2012 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1013569",
+        "6",
+        "7/1/2013 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1021869",
+        "7",
+        "7/1/2014 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1030475",
+        "8",
+        "7/1/2015 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1040859",
+        "9",
+        "7/1/2016 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1052482",
+        "10",
+        "7/1/2017 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1060665",
+        "11",
+        "7/1/2018 population estimate",
+        "30"
+    ],
+    [
+        "Montana",
+        "1068778",
+        "12",
+        "7/1/2019 population estimate",
+        "30"
+    ],
+    [
+        "Nebraska",
+        "1826341",
+        "1",
+        "4/1/2010 Census population",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1826305",
+        "2",
+        "4/1/2010 population estimates base",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1829542",
+        "3",
+        "7/1/2010 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1840672",
+        "4",
+        "7/1/2011 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1853303",
+        "5",
+        "7/1/2012 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1865279",
+        "6",
+        "7/1/2013 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1879321",
+        "7",
+        "7/1/2014 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1891277",
+        "8",
+        "7/1/2015 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1905616",
+        "9",
+        "7/1/2016 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1915947",
+        "10",
+        "7/1/2017 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1925614",
+        "11",
+        "7/1/2018 population estimate",
+        "31"
+    ],
+    [
+        "Nebraska",
+        "1934408",
+        "12",
+        "7/1/2019 population estimate",
+        "31"
+    ],
+    [
+        "Nevada",
+        "2700551",
+        "1",
+        "4/1/2010 Census population",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2700677",
+        "2",
+        "4/1/2010 population estimates base",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2702405",
+        "3",
+        "7/1/2010 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2712730",
+        "4",
+        "7/1/2011 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2743996",
+        "5",
+        "7/1/2012 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2775970",
+        "6",
+        "7/1/2013 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2817628",
+        "7",
+        "7/1/2014 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2866939",
+        "8",
+        "7/1/2015 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2917563",
+        "9",
+        "7/1/2016 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "2969905",
+        "10",
+        "7/1/2017 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "3027341",
+        "11",
+        "7/1/2018 population estimate",
+        "32"
+    ],
+    [
+        "Nevada",
+        "3080156",
+        "12",
+        "7/1/2019 population estimate",
+        "32"
+    ],
+    [
+        "New Hampshire",
+        "1316470",
+        "1",
+        "4/1/2010 Census population",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1316462",
+        "2",
+        "4/1/2010 population estimates base",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1316762",
+        "3",
+        "7/1/2010 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1320202",
+        "4",
+        "7/1/2011 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1324232",
+        "5",
+        "7/1/2012 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1326622",
+        "6",
+        "7/1/2013 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1333341",
+        "7",
+        "7/1/2014 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1336350",
+        "8",
+        "7/1/2015 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1342307",
+        "9",
+        "7/1/2016 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1348787",
+        "10",
+        "7/1/2017 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1353465",
+        "11",
+        "7/1/2018 population estimate",
+        "33"
+    ],
+    [
+        "New Hampshire",
+        "1359711",
+        "12",
+        "7/1/2019 population estimate",
+        "33"
+    ],
+    [
+        "New Jersey",
+        "8791894",
+        "1",
+        "4/1/2010 Census population",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8791978",
+        "2",
+        "4/1/2010 population estimates base",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8799446",
+        "3",
+        "7/1/2010 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8828117",
+        "4",
+        "7/1/2011 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8844942",
+        "5",
+        "7/1/2012 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8856972",
+        "6",
+        "7/1/2013 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8864525",
+        "7",
+        "7/1/2014 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8867949",
+        "8",
+        "7/1/2015 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8870827",
+        "9",
+        "7/1/2016 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8885525",
+        "10",
+        "7/1/2017 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8886025",
+        "11",
+        "7/1/2018 population estimate",
+        "34"
+    ],
+    [
+        "New Jersey",
+        "8882190",
+        "12",
+        "7/1/2019 population estimate",
+        "34"
+    ],
+    [
+        "New Mexico",
+        "2059179",
+        "1",
+        "4/1/2010 Census population",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2059199",
+        "2",
+        "4/1/2010 population estimates base",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2064552",
+        "3",
+        "7/1/2010 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2080450",
+        "4",
+        "7/1/2011 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2087309",
+        "5",
+        "7/1/2012 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2092273",
+        "6",
+        "7/1/2013 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2089568",
+        "7",
+        "7/1/2014 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2089291",
+        "8",
+        "7/1/2015 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2091630",
+        "9",
+        "7/1/2016 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2091784",
+        "10",
+        "7/1/2017 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2092741",
+        "11",
+        "7/1/2018 population estimate",
+        "35"
+    ],
+    [
+        "New Mexico",
+        "2096829",
+        "12",
+        "7/1/2019 population estimate",
+        "35"
+    ],
+    [
+        "New York",
+        "19378102",
+        "1",
+        "4/1/2010 Census population",
+        "36"
+    ],
+    [
+        "New York",
+        "19378144",
+        "2",
+        "4/1/2010 population estimates base",
+        "36"
+    ],
+    [
+        "New York",
+        "19399878",
+        "3",
+        "7/1/2010 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19499241",
+        "4",
+        "7/1/2011 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19572932",
+        "5",
+        "7/1/2012 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19624447",
+        "6",
+        "7/1/2013 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19651049",
+        "7",
+        "7/1/2014 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19654666",
+        "8",
+        "7/1/2015 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19633428",
+        "9",
+        "7/1/2016 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19589572",
+        "10",
+        "7/1/2017 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19530351",
+        "11",
+        "7/1/2018 population estimate",
+        "36"
+    ],
+    [
+        "New York",
+        "19453561",
+        "12",
+        "7/1/2019 population estimate",
+        "36"
+    ],
+    [
+        "North Carolina",
+        "9535483",
+        "1",
+        "4/1/2010 Census population",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "9535751",
+        "2",
+        "4/1/2010 population estimates base",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "9574323",
+        "3",
+        "7/1/2010 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "9657592",
+        "4",
+        "7/1/2011 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "9749476",
+        "5",
+        "7/1/2012 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "9843336",
+        "6",
+        "7/1/2013 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "9932887",
+        "7",
+        "7/1/2014 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "10031646",
+        "8",
+        "7/1/2015 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "10154788",
+        "9",
+        "7/1/2016 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "10268233",
+        "10",
+        "7/1/2017 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "10381615",
+        "11",
+        "7/1/2018 population estimate",
+        "37"
+    ],
+    [
+        "North Carolina",
+        "10488084",
+        "12",
+        "7/1/2019 population estimate",
+        "37"
+    ],
+    [
+        "North Dakota",
+        "672591",
+        "1",
+        "4/1/2010 Census population",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "672576",
+        "2",
+        "4/1/2010 population estimates base",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "674715",
+        "3",
+        "7/1/2010 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "685225",
+        "4",
+        "7/1/2011 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "701176",
+        "5",
+        "7/1/2012 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "722036",
+        "6",
+        "7/1/2013 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "737401",
+        "7",
+        "7/1/2014 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "754066",
+        "8",
+        "7/1/2015 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "754434",
+        "9",
+        "7/1/2016 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "754942",
+        "10",
+        "7/1/2017 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "758080",
+        "11",
+        "7/1/2018 population estimate",
+        "38"
+    ],
+    [
+        "North Dakota",
+        "762062",
+        "12",
+        "7/1/2019 population estimate",
+        "38"
+    ],
+    [
+        "Ohio",
+        "11536504",
+        "1",
+        "4/1/2010 Census population",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11536751",
+        "2",
+        "4/1/2010 population estimates base",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11539336",
+        "3",
+        "7/1/2010 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11544663",
+        "4",
+        "7/1/2011 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11548923",
+        "5",
+        "7/1/2012 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11576684",
+        "6",
+        "7/1/2013 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11602700",
+        "7",
+        "7/1/2014 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11617527",
+        "8",
+        "7/1/2015 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11634370",
+        "9",
+        "7/1/2016 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11659650",
+        "10",
+        "7/1/2017 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11676341",
+        "11",
+        "7/1/2018 population estimate",
+        "39"
+    ],
+    [
+        "Ohio",
+        "11689100",
+        "12",
+        "7/1/2019 population estimate",
+        "39"
+    ],
+    [
+        "Oklahoma",
+        "3751351",
+        "1",
+        "4/1/2010 Census population",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3751582",
+        "2",
+        "4/1/2010 population estimates base",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3759944",
+        "3",
+        "7/1/2010 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3788379",
+        "4",
+        "7/1/2011 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3818814",
+        "5",
+        "7/1/2012 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3853214",
+        "6",
+        "7/1/2013 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3878187",
+        "7",
+        "7/1/2014 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3909500",
+        "8",
+        "7/1/2015 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3926331",
+        "9",
+        "7/1/2016 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3931316",
+        "10",
+        "7/1/2017 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3940235",
+        "11",
+        "7/1/2018 population estimate",
+        "40"
+    ],
+    [
+        "Oklahoma",
+        "3956971",
+        "12",
+        "7/1/2019 population estimate",
+        "40"
+    ],
+    [
+        "Oregon",
+        "3831074",
+        "1",
+        "4/1/2010 Census population",
+        "41"
+    ],
+    [
+        "Oregon",
+        "3831079",
+        "2",
+        "4/1/2010 population estimates base",
+        "41"
+    ],
+    [
+        "Oregon",
+        "3837491",
+        "3",
+        "7/1/2010 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "3872036",
+        "4",
+        "7/1/2011 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "3899001",
+        "5",
+        "7/1/2012 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "3922468",
+        "6",
+        "7/1/2013 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "3963244",
+        "7",
+        "7/1/2014 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "4015792",
+        "8",
+        "7/1/2015 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "4089976",
+        "9",
+        "7/1/2016 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "4143625",
+        "10",
+        "7/1/2017 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "4181886",
+        "11",
+        "7/1/2018 population estimate",
+        "41"
+    ],
+    [
+        "Oregon",
+        "4217737",
+        "12",
+        "7/1/2019 population estimate",
+        "41"
+    ],
+    [
+        "Pennsylvania",
+        "12702379",
+        "1",
+        "4/1/2010 Census population",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12702868",
+        "2",
+        "4/1/2010 population estimates base",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12711160",
+        "3",
+        "7/1/2010 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12745815",
+        "4",
+        "7/1/2011 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12767118",
+        "5",
+        "7/1/2012 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12776309",
+        "6",
+        "7/1/2013 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12788313",
+        "7",
+        "7/1/2014 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12784826",
+        "8",
+        "7/1/2015 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12782275",
+        "9",
+        "7/1/2016 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12787641",
+        "10",
+        "7/1/2017 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12800922",
+        "11",
+        "7/1/2018 population estimate",
+        "42"
+    ],
+    [
+        "Pennsylvania",
+        "12801989",
+        "12",
+        "7/1/2019 population estimate",
+        "42"
+    ],
+    [
+        "Rhode Island",
+        "1052567",
+        "1",
+        "4/1/2010 Census population",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1052964",
+        "2",
+        "4/1/2010 population estimates base",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1053959",
+        "3",
+        "7/1/2010 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1053649",
+        "4",
+        "7/1/2011 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1054621",
+        "5",
+        "7/1/2012 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1055081",
+        "6",
+        "7/1/2013 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1055936",
+        "7",
+        "7/1/2014 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1056065",
+        "8",
+        "7/1/2015 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1056770",
+        "9",
+        "7/1/2016 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1055673",
+        "10",
+        "7/1/2017 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1058287",
+        "11",
+        "7/1/2018 population estimate",
+        "44"
+    ],
+    [
+        "Rhode Island",
+        "1059361",
+        "12",
+        "7/1/2019 population estimate",
+        "44"
+    ],
+    [
+        "South Carolina",
+        "4625364",
+        "1",
+        "4/1/2010 Census population",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4625366",
+        "2",
+        "4/1/2010 population estimates base",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4635649",
+        "3",
+        "7/1/2010 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4671994",
+        "4",
+        "7/1/2011 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4717354",
+        "5",
+        "7/1/2012 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4764080",
+        "6",
+        "7/1/2013 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4823617",
+        "7",
+        "7/1/2014 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4891938",
+        "8",
+        "7/1/2015 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "4957968",
+        "9",
+        "7/1/2016 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "5021268",
+        "10",
+        "7/1/2017 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "5084156",
+        "11",
+        "7/1/2018 population estimate",
+        "45"
+    ],
+    [
+        "South Carolina",
+        "5148714",
+        "12",
+        "7/1/2019 population estimate",
+        "45"
+    ],
+    [
+        "South Dakota",
+        "814180",
+        "1",
+        "4/1/2010 Census population",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "814198",
+        "2",
+        "4/1/2010 population estimates base",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "816166",
+        "3",
+        "7/1/2010 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "823579",
+        "4",
+        "7/1/2011 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "833566",
+        "5",
+        "7/1/2012 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "842316",
+        "6",
+        "7/1/2013 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "849129",
+        "7",
+        "7/1/2014 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "853988",
+        "8",
+        "7/1/2015 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "862996",
+        "9",
+        "7/1/2016 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "872868",
+        "10",
+        "7/1/2017 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "878698",
+        "11",
+        "7/1/2018 population estimate",
+        "46"
+    ],
+    [
+        "South Dakota",
+        "884659",
+        "12",
+        "7/1/2019 population estimate",
+        "46"
+    ],
+    [
+        "Tennessee",
+        "6346105",
+        "1",
+        "4/1/2010 Census population",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6346276",
+        "2",
+        "4/1/2010 population estimates base",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6355311",
+        "3",
+        "7/1/2010 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6399291",
+        "4",
+        "7/1/2011 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6453898",
+        "5",
+        "7/1/2012 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6494340",
+        "6",
+        "7/1/2013 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6541223",
+        "7",
+        "7/1/2014 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6591170",
+        "8",
+        "7/1/2015 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6646010",
+        "9",
+        "7/1/2016 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6708799",
+        "10",
+        "7/1/2017 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6771631",
+        "11",
+        "7/1/2018 population estimate",
+        "47"
+    ],
+    [
+        "Tennessee",
+        "6829174",
+        "12",
+        "7/1/2019 population estimate",
+        "47"
+    ],
+    [
+        "Texas",
+        "25145561",
+        "1",
+        "4/1/2010 Census population",
+        "48"
+    ],
+    [
+        "Texas",
+        "25146091",
+        "2",
+        "4/1/2010 population estimates base",
+        "48"
+    ],
+    [
+        "Texas",
+        "25241971",
+        "3",
+        "7/1/2010 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "25645629",
+        "4",
+        "7/1/2011 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "26084481",
+        "5",
+        "7/1/2012 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "26480266",
+        "6",
+        "7/1/2013 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "26964333",
+        "7",
+        "7/1/2014 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "27470056",
+        "8",
+        "7/1/2015 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "27914410",
+        "9",
+        "7/1/2016 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "28295273",
+        "10",
+        "7/1/2017 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "28628666",
+        "11",
+        "7/1/2018 population estimate",
+        "48"
+    ],
+    [
+        "Texas",
+        "28995881",
+        "12",
+        "7/1/2019 population estimate",
+        "48"
+    ],
+    [
+        "Vermont",
+        "625741",
+        "1",
+        "4/1/2010 Census population",
+        "50"
+    ],
+    [
+        "Vermont",
+        "625737",
+        "2",
+        "4/1/2010 population estimates base",
+        "50"
+    ],
+    [
+        "Vermont",
+        "625879",
+        "3",
+        "7/1/2010 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "627049",
+        "4",
+        "7/1/2011 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "626090",
+        "5",
+        "7/1/2012 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "626210",
+        "6",
+        "7/1/2013 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "625214",
+        "7",
+        "7/1/2014 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "625216",
+        "8",
+        "7/1/2015 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "623657",
+        "9",
+        "7/1/2016 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "624344",
+        "10",
+        "7/1/2017 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "624358",
+        "11",
+        "7/1/2018 population estimate",
+        "50"
+    ],
+    [
+        "Vermont",
+        "623989",
+        "12",
+        "7/1/2019 population estimate",
+        "50"
+    ],
+    [
+        "Utah",
+        "2763885",
+        "1",
+        "4/1/2010 Census population",
+        "49"
+    ],
+    [
+        "Utah",
+        "2763891",
+        "2",
+        "4/1/2010 population estimates base",
+        "49"
+    ],
+    [
+        "Utah",
+        "2775332",
+        "3",
+        "7/1/2010 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "2814384",
+        "4",
+        "7/1/2011 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "2853375",
+        "5",
+        "7/1/2012 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "2897640",
+        "6",
+        "7/1/2013 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "2936879",
+        "7",
+        "7/1/2014 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "2981835",
+        "8",
+        "7/1/2015 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "3041868",
+        "9",
+        "7/1/2016 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "3101042",
+        "10",
+        "7/1/2017 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "3153550",
+        "11",
+        "7/1/2018 population estimate",
+        "49"
+    ],
+    [
+        "Utah",
+        "3205958",
+        "12",
+        "7/1/2019 population estimate",
+        "49"
+    ],
+    [
+        "Virginia",
+        "8001024",
+        "1",
+        "4/1/2010 Census population",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8001049",
+        "2",
+        "4/1/2010 population estimates base",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8023699",
+        "3",
+        "7/1/2010 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8101155",
+        "4",
+        "7/1/2011 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8185080",
+        "5",
+        "7/1/2012 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8252427",
+        "6",
+        "7/1/2013 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8310993",
+        "7",
+        "7/1/2014 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8361808",
+        "8",
+        "7/1/2015 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8410106",
+        "9",
+        "7/1/2016 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8463587",
+        "10",
+        "7/1/2017 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8501286",
+        "11",
+        "7/1/2018 population estimate",
+        "51"
+    ],
+    [
+        "Virginia",
+        "8535519",
+        "12",
+        "7/1/2019 population estimate",
+        "51"
+    ],
+    [
+        "Washington",
+        "6724540",
+        "1",
+        "4/1/2010 Census population",
+        "53"
+    ],
+    [
+        "Washington",
+        "6724540",
+        "2",
+        "4/1/2010 population estimates base",
+        "53"
+    ],
+    [
+        "Washington",
+        "6742830",
+        "3",
+        "7/1/2010 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "6826627",
+        "4",
+        "7/1/2011 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "6897058",
+        "5",
+        "7/1/2012 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "6963985",
+        "6",
+        "7/1/2013 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "7054655",
+        "7",
+        "7/1/2014 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "7163657",
+        "8",
+        "7/1/2015 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "7294771",
+        "9",
+        "7/1/2016 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "7423362",
+        "10",
+        "7/1/2017 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "7523869",
+        "11",
+        "7/1/2018 population estimate",
+        "53"
+    ],
+    [
+        "Washington",
+        "7614893",
+        "12",
+        "7/1/2019 population estimate",
+        "53"
+    ],
+    [
+        "West Virginia",
+        "1852994",
+        "1",
+        "4/1/2010 Census population",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1853018",
+        "2",
+        "4/1/2010 population estimates base",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1854239",
+        "3",
+        "7/1/2010 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1856301",
+        "4",
+        "7/1/2011 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1856872",
+        "5",
+        "7/1/2012 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1853914",
+        "6",
+        "7/1/2013 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1849489",
+        "7",
+        "7/1/2014 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1842050",
+        "8",
+        "7/1/2015 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1831023",
+        "9",
+        "7/1/2016 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1817004",
+        "10",
+        "7/1/2017 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1804291",
+        "11",
+        "7/1/2018 population estimate",
+        "54"
+    ],
+    [
+        "West Virginia",
+        "1792147",
+        "12",
+        "7/1/2019 population estimate",
+        "54"
+    ],
+    [
+        "Wisconsin",
+        "5686986",
+        "1",
+        "4/1/2010 Census population",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5687285",
+        "2",
+        "4/1/2010 population estimates base",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5690475",
+        "3",
+        "7/1/2010 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5705288",
+        "4",
+        "7/1/2011 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5719960",
+        "5",
+        "7/1/2012 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5736754",
+        "6",
+        "7/1/2013 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5751525",
+        "7",
+        "7/1/2014 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5760940",
+        "8",
+        "7/1/2015 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5772628",
+        "9",
+        "7/1/2016 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5790186",
+        "10",
+        "7/1/2017 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5807406",
+        "11",
+        "7/1/2018 population estimate",
+        "55"
+    ],
+    [
+        "Wisconsin",
+        "5822434",
+        "12",
+        "7/1/2019 population estimate",
+        "55"
+    ],
+    [
+        "Wyoming",
+        "563626",
+        "1",
+        "4/1/2010 Census population",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "563775",
+        "2",
+        "4/1/2010 population estimates base",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "564487",
+        "3",
+        "7/1/2010 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "567299",
+        "4",
+        "7/1/2011 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "576305",
+        "5",
+        "7/1/2012 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "582122",
+        "6",
+        "7/1/2013 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "582531",
+        "7",
+        "7/1/2014 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "585613",
+        "8",
+        "7/1/2015 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "584215",
+        "9",
+        "7/1/2016 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "578931",
+        "10",
+        "7/1/2017 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "577601",
+        "11",
+        "7/1/2018 population estimate",
+        "56"
+    ],
+    [
+        "Wyoming",
+        "578759",
+        "12",
+        "7/1/2019 population estimate",
+        "56"
+    ],
+    [
+        "Puerto Rico",
+        "3725789",
+        "1",
+        "4/1/2010 Census population",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3726157",
+        "2",
+        "4/1/2010 population estimates base",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3721525",
+        "3",
+        "7/1/2010 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3678732",
+        "4",
+        "7/1/2011 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3634488",
+        "5",
+        "7/1/2012 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3593077",
+        "6",
+        "7/1/2013 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3534874",
+        "7",
+        "7/1/2014 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3473232",
+        "8",
+        "7/1/2015 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3406672",
+        "9",
+        "7/1/2016 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3325286",
+        "10",
+        "7/1/2017 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3193354",
+        "11",
+        "7/1/2018 population estimate",
+        "72"
+    ],
+    [
+        "Puerto Rico",
+        "3193694",
+        "12",
+        "7/1/2019 population estimate",
+        "72"
+    ],
+    [
+        "Alabama",
+        "4779736",
+        "1",
+        "4/1/2010 Census population",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4780125",
+        "2",
+        "4/1/2010 population estimates base",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4785437",
+        "3",
+        "7/1/2010 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4799069",
+        "4",
+        "7/1/2011 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4815588",
+        "5",
+        "7/1/2012 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4830081",
+        "6",
+        "7/1/2013 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4841799",
+        "7",
+        "7/1/2014 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4852347",
+        "8",
+        "7/1/2015 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4863525",
+        "9",
+        "7/1/2016 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4874486",
+        "10",
+        "7/1/2017 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4887681",
+        "11",
+        "7/1/2018 population estimate",
+        "01"
+    ],
+    [
+        "Alabama",
+        "4903185",
+        "12",
+        "7/1/2019 population estimate",
+        "01"
+    ],
+    [
+        "Alaska",
+        "710231",
+        "1",
+        "4/1/2010 Census population",
+        "02"
+    ],
+    [
+        "Alaska",
+        "710249",
+        "2",
+        "4/1/2010 population estimates base",
+        "02"
+    ],
+    [
+        "Alaska",
+        "713910",
+        "3",
+        "7/1/2010 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "722128",
+        "4",
+        "7/1/2011 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "730443",
+        "5",
+        "7/1/2012 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "737068",
+        "6",
+        "7/1/2013 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "736283",
+        "7",
+        "7/1/2014 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "737498",
+        "8",
+        "7/1/2015 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "741456",
+        "9",
+        "7/1/2016 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "739700",
+        "10",
+        "7/1/2017 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "735139",
+        "11",
+        "7/1/2018 population estimate",
+        "02"
+    ],
+    [
+        "Alaska",
+        "731545",
+        "12",
+        "7/1/2019 population estimate",
+        "02"
+    ],
+    [
+        "Arizona",
+        "6392017",
+        "1",
+        "4/1/2010 Census population",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6392288",
+        "2",
+        "4/1/2010 population estimates base",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6407172",
+        "3",
+        "7/1/2010 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6472643",
+        "4",
+        "7/1/2011 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6554978",
+        "5",
+        "7/1/2012 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6632764",
+        "6",
+        "7/1/2013 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6730413",
+        "7",
+        "7/1/2014 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6829676",
+        "8",
+        "7/1/2015 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "6941072",
+        "9",
+        "7/1/2016 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "7044008",
+        "10",
+        "7/1/2017 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "7158024",
+        "11",
+        "7/1/2018 population estimate",
+        "04"
+    ],
+    [
+        "Arizona",
+        "7278717",
+        "12",
+        "7/1/2019 population estimate",
+        "04"
+    ],
+    [
+        "Arkansas",
+        "2915918",
+        "1",
+        "4/1/2010 Census population",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2916031",
+        "2",
+        "4/1/2010 population estimates base",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2921964",
+        "3",
+        "7/1/2010 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2940667",
+        "4",
+        "7/1/2011 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2952164",
+        "5",
+        "7/1/2012 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2959400",
+        "6",
+        "7/1/2013 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2967392",
+        "7",
+        "7/1/2014 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2978048",
+        "8",
+        "7/1/2015 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "2989918",
+        "9",
+        "7/1/2016 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "3001345",
+        "10",
+        "7/1/2017 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "3009733",
+        "11",
+        "7/1/2018 population estimate",
+        "05"
+    ],
+    [
+        "Arkansas",
+        "3017804",
+        "12",
+        "7/1/2019 population estimate",
+        "05"
+    ],
+    [
+        "California",
+        "37253956",
+        "1",
+        "4/1/2010 Census population",
+        "06"
+    ],
+    [
+        "California",
+        "37254519",
+        "2",
+        "4/1/2010 population estimates base",
+        "06"
+    ],
+    [
+        "California",
+        "37319502",
+        "3",
+        "7/1/2010 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "37638369",
+        "4",
+        "7/1/2011 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "37948800",
+        "5",
+        "7/1/2012 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "38260787",
+        "6",
+        "7/1/2013 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "38596972",
+        "7",
+        "7/1/2014 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "38918045",
+        "8",
+        "7/1/2015 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "39167117",
+        "9",
+        "7/1/2016 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "39358497",
+        "10",
+        "7/1/2017 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "39461588",
+        "11",
+        "7/1/2018 population estimate",
+        "06"
+    ],
+    [
+        "California",
+        "39512223",
+        "12",
+        "7/1/2019 population estimate",
+        "06"
+    ],
+    [
+        "Colorado",
+        "5029196",
+        "1",
+        "4/1/2010 Census population",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5029319",
+        "2",
+        "4/1/2010 population estimates base",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5047349",
+        "3",
+        "7/1/2010 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5121108",
+        "4",
+        "7/1/2011 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5192647",
+        "5",
+        "7/1/2012 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5269035",
+        "6",
+        "7/1/2013 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5350101",
+        "7",
+        "7/1/2014 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5450623",
+        "8",
+        "7/1/2015 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5539215",
+        "9",
+        "7/1/2016 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5611885",
+        "10",
+        "7/1/2017 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5691287",
+        "11",
+        "7/1/2018 population estimate",
+        "08"
+    ],
+    [
+        "Colorado",
+        "5758736",
+        "12",
+        "7/1/2019 population estimate",
+        "08"
+    ],
+    [
+        "Delaware",
+        "897934",
+        "1",
+        "4/1/2010 Census population",
+        "10"
+    ],
+    [
+        "Delaware",
+        "897937",
+        "2",
+        "4/1/2010 population estimates base",
+        "10"
+    ],
+    [
+        "Delaware",
+        "899593",
+        "3",
+        "7/1/2010 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "907381",
+        "4",
+        "7/1/2011 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "915179",
+        "5",
+        "7/1/2012 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "923576",
+        "6",
+        "7/1/2013 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "932487",
+        "7",
+        "7/1/2014 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "941252",
+        "8",
+        "7/1/2015 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "948921",
+        "9",
+        "7/1/2016 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "956823",
+        "10",
+        "7/1/2017 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "965479",
+        "11",
+        "7/1/2018 population estimate",
+        "10"
+    ],
+    [
+        "Delaware",
+        "973764",
+        "12",
+        "7/1/2019 population estimate",
+        "10"
+    ],
+    [
+        "District of Columbia",
+        "601723",
+        "1",
+        "4/1/2010 Census population",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "601767",
+        "2",
+        "4/1/2010 population estimates base",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "605226",
+        "3",
+        "7/1/2010 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "619800",
+        "4",
+        "7/1/2011 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "634924",
+        "5",
+        "7/1/2012 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "650581",
+        "6",
+        "7/1/2013 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "662328",
+        "7",
+        "7/1/2014 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "675400",
+        "8",
+        "7/1/2015 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "685815",
+        "9",
+        "7/1/2016 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "694906",
+        "10",
+        "7/1/2017 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "701547",
+        "11",
+        "7/1/2018 population estimate",
+        "11"
+    ],
+    [
+        "District of Columbia",
+        "705749",
+        "12",
+        "7/1/2019 population estimate",
+        "11"
+    ],
+    [
+        "Connecticut",
+        "3574097",
+        "1",
+        "4/1/2010 Census population",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3574147",
+        "2",
+        "4/1/2010 population estimates base",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3579114",
+        "3",
+        "7/1/2010 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3588283",
+        "4",
+        "7/1/2011 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3594547",
+        "5",
+        "7/1/2012 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3594841",
+        "6",
+        "7/1/2013 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3594524",
+        "7",
+        "7/1/2014 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3587122",
+        "8",
+        "7/1/2015 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3578141",
+        "9",
+        "7/1/2016 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3573297",
+        "10",
+        "7/1/2017 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3571520",
+        "11",
+        "7/1/2018 population estimate",
+        "09"
+    ],
+    [
+        "Connecticut",
+        "3565287",
+        "12",
+        "7/1/2019 population estimate",
+        "09"
+    ],
+    [
+        "Florida",
+        "18801310",
+        "1",
+        "4/1/2010 Census population",
+        "12"
+    ],
+    [
+        "Florida",
+        "18804564",
+        "2",
+        "4/1/2010 population estimates base",
+        "12"
+    ],
+    [
+        "Florida",
+        "18845537",
+        "3",
+        "7/1/2010 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "19053237",
+        "4",
+        "7/1/2011 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "19297822",
+        "5",
+        "7/1/2012 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "19545621",
+        "6",
+        "7/1/2013 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "19845911",
+        "7",
+        "7/1/2014 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "20209042",
+        "8",
+        "7/1/2015 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "20613477",
+        "9",
+        "7/1/2016 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "20963613",
+        "10",
+        "7/1/2017 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "21244317",
+        "11",
+        "7/1/2018 population estimate",
+        "12"
+    ],
+    [
+        "Florida",
+        "21477737",
+        "12",
+        "7/1/2019 population estimate",
+        "12"
+    ],
+    [
+        "Georgia",
+        "9687653",
+        "1",
+        "4/1/2010 Census population",
+        "13"
+    ],
+    [
+        "Georgia",
+        "9688729",
+        "2",
+        "4/1/2010 population estimates base",
+        "13"
+    ],
+    [
+        "Georgia",
+        "9711881",
+        "3",
+        "7/1/2010 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "9802431",
+        "4",
+        "7/1/2011 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "9901430",
+        "5",
+        "7/1/2012 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "9972479",
+        "6",
+        "7/1/2013 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "10067278",
+        "7",
+        "7/1/2014 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "10178447",
+        "8",
+        "7/1/2015 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "10301890",
+        "9",
+        "7/1/2016 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "10410330",
+        "10",
+        "7/1/2017 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "10511131",
+        "11",
+        "7/1/2018 population estimate",
+        "13"
+    ],
+    [
+        "Georgia",
+        "10617423",
+        "12",
+        "7/1/2019 population estimate",
+        "13"
+    ],
+    [
+        "Idaho",
+        "1567582",
+        "1",
+        "4/1/2010 Census population",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1567657",
+        "2",
+        "4/1/2010 population estimates base",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1570746",
+        "3",
+        "7/1/2010 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1583910",
+        "4",
+        "7/1/2011 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1595324",
+        "5",
+        "7/1/2012 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1611206",
+        "6",
+        "7/1/2013 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1631112",
+        "7",
+        "7/1/2014 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1651059",
+        "8",
+        "7/1/2015 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1682380",
+        "9",
+        "7/1/2016 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1717715",
+        "10",
+        "7/1/2017 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1750536",
+        "11",
+        "7/1/2018 population estimate",
+        "16"
+    ],
+    [
+        "Idaho",
+        "1787065",
+        "12",
+        "7/1/2019 population estimate",
+        "16"
+    ],
+    [
+        "Hawaii",
+        "1360301",
+        "1",
+        "4/1/2010 Census population",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1360307",
+        "2",
+        "4/1/2010 population estimates base",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1363963",
+        "3",
+        "7/1/2010 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1379329",
+        "4",
+        "7/1/2011 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1394804",
+        "5",
+        "7/1/2012 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1408243",
+        "6",
+        "7/1/2013 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1414538",
+        "7",
+        "7/1/2014 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1422052",
+        "8",
+        "7/1/2015 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1427559",
+        "9",
+        "7/1/2016 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1424393",
+        "10",
+        "7/1/2017 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1420593",
+        "11",
+        "7/1/2018 population estimate",
+        "15"
+    ],
+    [
+        "Hawaii",
+        "1415872",
+        "12",
+        "7/1/2019 population estimate",
+        "15"
+    ],
+    [
+        "Illinois",
+        "12830632",
+        "1",
+        "4/1/2010 Census population",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12831572",
+        "2",
+        "4/1/2010 population estimates base",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12840503",
+        "3",
+        "7/1/2010 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12867454",
+        "4",
+        "7/1/2011 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12882510",
+        "5",
+        "7/1/2012 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12895129",
+        "6",
+        "7/1/2013 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12884493",
+        "7",
+        "7/1/2014 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12858913",
+        "8",
+        "7/1/2015 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12820527",
+        "9",
+        "7/1/2016 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12778828",
+        "10",
+        "7/1/2017 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12723071",
+        "11",
+        "7/1/2018 population estimate",
+        "17"
+    ],
+    [
+        "Illinois",
+        "12671821",
+        "12",
+        "7/1/2019 population estimate",
+        "17"
+    ],
+    [
+        "Indiana",
+        "6483802",
+        "1",
+        "4/1/2010 Census population",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6484051",
+        "2",
+        "4/1/2010 population estimates base",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6490432",
+        "3",
+        "7/1/2010 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6516528",
+        "4",
+        "7/1/2011 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6537703",
+        "5",
+        "7/1/2012 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6568713",
+        "6",
+        "7/1/2013 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6593644",
+        "7",
+        "7/1/2014 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6608422",
+        "8",
+        "7/1/2015 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6634304",
+        "9",
+        "7/1/2016 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6658078",
+        "10",
+        "7/1/2017 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6695497",
+        "11",
+        "7/1/2018 population estimate",
+        "18"
+    ],
+    [
+        "Indiana",
+        "6732219",
+        "12",
+        "7/1/2019 population estimate",
+        "18"
+    ],
+    [
+        "Iowa",
+        "3046355",
+        "1",
+        "4/1/2010 Census population",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3046871",
+        "2",
+        "4/1/2010 population estimates base",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3050745",
+        "3",
+        "7/1/2010 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3066336",
+        "4",
+        "7/1/2011 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3076190",
+        "5",
+        "7/1/2012 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3092997",
+        "6",
+        "7/1/2013 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3109350",
+        "7",
+        "7/1/2014 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3120960",
+        "8",
+        "7/1/2015 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3131371",
+        "9",
+        "7/1/2016 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3141550",
+        "10",
+        "7/1/2017 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3148618",
+        "11",
+        "7/1/2018 population estimate",
+        "19"
+    ],
+    [
+        "Iowa",
+        "3155070",
+        "12",
+        "7/1/2019 population estimate",
+        "19"
+    ],
+    [
+        "Kansas",
+        "2853118",
+        "1",
+        "4/1/2010 Census population",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2853123",
+        "2",
+        "4/1/2010 population estimates base",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2858190",
+        "3",
+        "7/1/2010 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2869225",
+        "4",
+        "7/1/2011 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2885257",
+        "5",
+        "7/1/2012 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2893212",
+        "6",
+        "7/1/2013 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2900475",
+        "7",
+        "7/1/2014 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2909011",
+        "8",
+        "7/1/2015 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2910844",
+        "9",
+        "7/1/2016 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2908718",
+        "10",
+        "7/1/2017 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2911359",
+        "11",
+        "7/1/2018 population estimate",
+        "20"
+    ],
+    [
+        "Kansas",
+        "2913314",
+        "12",
+        "7/1/2019 population estimate",
+        "20"
+    ],
+    [
+        "Kentucky",
+        "4339367",
+        "1",
+        "4/1/2010 Census population",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4339333",
+        "2",
+        "4/1/2010 population estimates base",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4348181",
+        "3",
+        "7/1/2010 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4369821",
+        "4",
+        "7/1/2011 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4386346",
+        "5",
+        "7/1/2012 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4404659",
+        "6",
+        "7/1/2013 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4414349",
+        "7",
+        "7/1/2014 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4425976",
+        "8",
+        "7/1/2015 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4438182",
+        "9",
+        "7/1/2016 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4452268",
+        "10",
+        "7/1/2017 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4461153",
+        "11",
+        "7/1/2018 population estimate",
+        "21"
+    ],
+    [
+        "Kentucky",
+        "4467673",
+        "12",
+        "7/1/2019 population estimate",
+        "21"
+    ],
+    [
+        "Louisiana",
+        "4533372",
+        "1",
+        "4/1/2010 Census population",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4533487",
+        "2",
+        "4/1/2010 population estimates base",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4544532",
+        "3",
+        "7/1/2010 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4575625",
+        "4",
+        "7/1/2011 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4600972",
+        "5",
+        "7/1/2012 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4624527",
+        "6",
+        "7/1/2013 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4644013",
+        "7",
+        "7/1/2014 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4664628",
+        "8",
+        "7/1/2015 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4678135",
+        "9",
+        "7/1/2016 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4670560",
+        "10",
+        "7/1/2017 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4659690",
+        "11",
+        "7/1/2018 population estimate",
+        "22"
+    ],
+    [
+        "Louisiana",
+        "4648794",
+        "12",
+        "7/1/2019 population estimate",
+        "22"
+    ],
+    [
+        "Maine",
+        "1328361",
+        "1",
+        "4/1/2010 Census population",
+        "23"
+    ],
+    [
+        "Maine",
+        "1328358",
+        "2",
+        "4/1/2010 population estimates base",
+        "23"
+    ],
+    [
+        "Maine",
+        "1327629",
+        "3",
+        "7/1/2010 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1328284",
+        "4",
+        "7/1/2011 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1327729",
+        "5",
+        "7/1/2012 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1328009",
+        "6",
+        "7/1/2013 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1330513",
+        "7",
+        "7/1/2014 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1328262",
+        "8",
+        "7/1/2015 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1331317",
+        "9",
+        "7/1/2016 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1334612",
+        "10",
+        "7/1/2017 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1339057",
+        "11",
+        "7/1/2018 population estimate",
+        "23"
+    ],
+    [
+        "Maine",
+        "1344212",
+        "12",
+        "7/1/2019 population estimate",
+        "23"
+    ],
+    [
+        "Maryland",
+        "5773552",
+        "1",
+        "4/1/2010 Census population",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5773794",
+        "2",
+        "4/1/2010 population estimates base",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5788645",
+        "3",
+        "7/1/2010 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5839419",
+        "4",
+        "7/1/2011 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5886992",
+        "5",
+        "7/1/2012 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5923188",
+        "6",
+        "7/1/2013 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5957283",
+        "7",
+        "7/1/2014 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "5985562",
+        "8",
+        "7/1/2015 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "6003323",
+        "9",
+        "7/1/2016 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "6023868",
+        "10",
+        "7/1/2017 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "6035802",
+        "11",
+        "7/1/2018 population estimate",
+        "24"
+    ],
+    [
+        "Maryland",
+        "6045680",
+        "12",
+        "7/1/2019 population estimate",
+        "24"
+    ],
+    [
+        "Massachusetts",
+        "6547629",
+        "1",
+        "4/1/2010 Census population",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6547785",
+        "2",
+        "4/1/2010 population estimates base",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6566307",
+        "3",
+        "7/1/2010 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6613583",
+        "4",
+        "7/1/2011 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6663005",
+        "5",
+        "7/1/2012 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6713315",
+        "6",
+        "7/1/2013 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6762596",
+        "7",
+        "7/1/2014 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6794228",
+        "8",
+        "7/1/2015 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6823608",
+        "9",
+        "7/1/2016 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6859789",
+        "10",
+        "7/1/2017 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6882635",
+        "11",
+        "7/1/2018 population estimate",
+        "25"
+    ],
+    [
+        "Massachusetts",
+        "6892503",
+        "12",
+        "7/1/2019 population estimate",
+        "25"
+    ],
+    [
+        "Michigan",
+        "9883640",
+        "1",
+        "4/1/2010 Census population",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9884116",
+        "2",
+        "4/1/2010 population estimates base",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9877510",
+        "3",
+        "7/1/2010 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9882412",
+        "4",
+        "7/1/2011 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9897145",
+        "5",
+        "7/1/2012 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9913065",
+        "6",
+        "7/1/2013 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9929848",
+        "7",
+        "7/1/2014 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9931715",
+        "8",
+        "7/1/2015 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9950571",
+        "9",
+        "7/1/2016 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9973114",
+        "10",
+        "7/1/2017 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9984072",
+        "11",
+        "7/1/2018 population estimate",
+        "26"
+    ],
+    [
+        "Michigan",
+        "9986857",
+        "12",
+        "7/1/2019 population estimate",
+        "26"
+    ],
+    [
+        "Minnesota",
+        "5303925",
+        "1",
+        "4/1/2010 Census population",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5303927",
+        "2",
+        "4/1/2010 population estimates base",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5310828",
+        "3",
+        "7/1/2010 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5346143",
+        "4",
+        "7/1/2011 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5376643",
+        "5",
+        "7/1/2012 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5413479",
+        "6",
+        "7/1/2013 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5451079",
+        "7",
+        "7/1/2014 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5482032",
+        "8",
+        "7/1/2015 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5522744",
+        "9",
+        "7/1/2016 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5566230",
+        "10",
+        "7/1/2017 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5606249",
+        "11",
+        "7/1/2018 population estimate",
+        "27"
+    ],
+    [
+        "Minnesota",
+        "5639632",
+        "12",
+        "7/1/2019 population estimate",
+        "27"
+    ]
+]
