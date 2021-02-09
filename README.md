@@ -1,6 +1,6 @@
 # covid-prisons
 
-The Marshall Project is a nonprofit investigative newsroom dedicated to the U.S. criminal justice system. Recently, they reported on the spread of Covid-19 in US prisons. Using their publicly available data, I've created graphics to shed light on the virus's spread in our state prison systems
+The Marshall Project is a nonprofit investigative newsroom dedicated to the U.S. criminal justice system. Recently, they reported on the spread of Covid-19 in US prisons. Using their publicly available data, I've created graphics to shed light on the virus's spread in our state prison systems.
 
 See the visualizations by themselves [here](https://william-rice.github.io/covid-prisons/).
 
