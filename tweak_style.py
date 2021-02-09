@@ -150,13 +150,13 @@ def adjust(htmldoc):
     js.replace_with(modified_script)
 
     # Save output
-    filename = "styled_{}".format(htmldoc)
+    filename = "site-pages/styled_{}".format(htmldoc.split("/")[1])
     with open(filename, 'w') as f:
         f.write(str(doc))
 
 def main():
-    adjust("rates.html")
-    adjust("counts.html")
+    adjust("site-pages/rates.html")
+    adjust("site-pages/counts.html")
 
 if __name__ == '__main__':
     main()
